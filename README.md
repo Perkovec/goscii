@@ -9,7 +9,7 @@ library and cli for convert image to ASCII art
 go get github.com/Perkovec/goscii
 
 # cli
-go install github.com/Perkovec/goscii/cli
+go install github.com/Perkovec/goscii/cli/goscii
 ```
 
 ## CLI usage
