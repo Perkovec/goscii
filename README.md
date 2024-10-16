@@ -12,6 +12,12 @@ go get github.com/Perkovec/goscii
 go install github.com/Perkovec/goscii/cli/goscii
 ```
 
+## Roadmap
+
+- [ ] (pkg) Add support for colors
+- [ ] (cli) Add support for custom charset
+- [ ] (pkg) Benchmarks
+
 ## CLI usage
 
 ```bash
