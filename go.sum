@@ -1,5 +1,9 @@
 github.com/Perkovec/tutils v1.0.0 h1:yZP3eS3lwJsTKj0gbG5+UWNm+HZs8earbAJzsSkR6cU=
 github.com/Perkovec/tutils v1.0.0/go.mod h1:4NNT/Zpq8Sr0xSpp9d8WikJ60/JnW5FSe1uEs8yQjM8=
+github.com/Perkovec/tutils v1.1.0 h1:rwoyaJ0WseZ7qXkgsAWmfCbUNYHuRuQy0gs7J+xMDNo=
+github.com/Perkovec/tutils v1.1.0/go.mod h1:4NNT/Zpq8Sr0xSpp9d8WikJ60/JnW5FSe1uEs8yQjM8=
+github.com/Perkovec/tutils v1.1.1 h1:8Lc54ZPv2zxsnJFzhNJVPMjmWTKFYjM+YCdI6TTgMIg=
+github.com/Perkovec/tutils v1.1.1/go.mod h1:4NNT/Zpq8Sr0xSpp9d8WikJ60/JnW5FSe1uEs8yQjM8=
 github.com/cpuguy83/go-md2man/v2 v2.0.4/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2s0bqwp9tc8=
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
