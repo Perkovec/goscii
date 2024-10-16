@@ -1,7 +1,6 @@
 package goscii
 
 import (
-	"fmt"
 	"image"
 )
 
@@ -57,8 +56,6 @@ func (c *goSCIIConverter) getASCIIOutputSize(imgBounds image.Rectangle) (image.P
 		imageSize.X = imgWidth
 		imageSize.Y = imgHeight
 	}
-
-	fmt.Println(asciiSize, imageSize)
 
 	return asciiSize, imageSize
 }
