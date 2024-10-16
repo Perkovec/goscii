@@ -46,8 +46,8 @@ func (c *goSCIIConverter) getASCIIOutputSize(imgBounds image.Rectangle) (image.P
 			asciiSize.X = c.columns
 			asciiSize.Y = int(float64(c.columns) / imageAspectRatio * c.fontAspectRatio)
 		} else {
-			asciiSize.X = int(float64(c.rows) * imageAspectRatio)
-			asciiSize.Y = int(float64(c.rows) * c.fontAspectRatio)
+			asciiSize.X = int(float64(c.rows) * imageAspectRatio / c.fontAspectRatio)
+			asciiSize.Y = c.rows
 		}
 
 	case FitFill:
